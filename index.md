@@ -16,3 +16,9 @@ Pour le code JS
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+Ajout de task
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
